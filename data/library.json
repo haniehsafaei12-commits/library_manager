@@ -1,0 +1,18 @@
+[
+    {
+        "title": " A Brief History of Time",
+        "author": "Stephen Hawking",
+        "year": 1988,
+        "isbn": "9780553380163",
+        "genre": "Science",
+        "is_borrowed": false
+    },
+    {
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "year": 2019,
+        "isbn": "9781593279288",
+        "genre": " Programming",
+        "is_borrowed": false
+    }
+]
